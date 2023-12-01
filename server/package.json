@@ -1,0 +1,15 @@
+{
+  "name": "testrelay",
+  "version": "1.0.0",
+  "description": "test for server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "node ./updateSchema"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-http": "^1.22.0"
+  }
+}
